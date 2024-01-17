@@ -8,3 +8,4 @@ if(isset($_SESSION['num'])){
 
 $_SESSION['num'] = ++$num;
 echo $num;
+?>
