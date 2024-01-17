@@ -12,3 +12,4 @@ fwrite($fd2,$contador);
 fclose($fd2);
 
 echo $contador;
+?>
